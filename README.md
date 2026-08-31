@@ -1,14 +1,8 @@
-<div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aakash+%F0%9F%91%8B;Data+Analyst+%7C+ML%2FAI+Enthusiast;B.Tech+CSE+Student;Turning+Data+into+Decisions" alt="Typing SVG" />
 
-# Hi, I'm Aakash 👋
+LinkedIn Gmail GitHub
 
-### Data Analyst · ML/AI Enthusiast · B.Tech CSE Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashcse2027/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashimportant03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashimportant15-max)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aakashimportant15-max&color=blueviolet&style=flat-square&label=Profile+Views)
+Show Image
 
 </div>
 <br>
