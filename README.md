@@ -70,10 +70,14 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 
 <div align="center">
 
-**Looking for Software / Backend, AI-GenAI or Data Analytics internships?** Let's talk.
+# 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashcse2027/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashimportant03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-ak.vercel.app)
+I'm actively looking for **Software / Backend, AI-GenAI and Data Analytics opportunities** — always happy to talk backend, GenAI, data and dashboards.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashcse2027/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashimportant03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-ak.vercel.app)
+
+<sub>⭐️ From [aakashimportant15-max](https://github.com/aakashimportant15-max)</sub>
 
 </div>
