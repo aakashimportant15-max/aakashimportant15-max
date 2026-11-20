@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Aakash banner">
+</p>
+
 # Hi, I'm Aakash 👋
  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=false&vCenter=true&width=700&height=40&lines=Backend+%7C+GenAI+%7C+Data+Analytics;CodeVerse+India+2026+Winner;Open+to+Internships" alt="Typing SVG" />
