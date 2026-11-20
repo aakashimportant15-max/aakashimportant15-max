@@ -1,4 +1,6 @@
-# Hi, I'm Aakash 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aakash+%F0%9F%91%8B;Backend+%7C+GenAI+%7C+Data+Analytics;CodeVerse+India+2026+Winner;Open+to+Internships" alt="Typing SVG" />
+</div>
 
 I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI, Next.js and Power BI. CS undergrad (B.Tech 2027), hackathon winner, open to **Software / Backend, AI-GenAI and Data Analytics internships**.
 
@@ -18,7 +20,7 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -29,7 +31,7 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 | 🌊 [**StageProof**](https://github.com/aakashimportant15-max/StageProof) | Integrity layer for flood early-warning sensors. HMAC-authenticated packets, Ridge-regression cross-checks and a hash-chained tamper-evident audit log. 6 attack/fault scenarios, 259 passing tests (simulated data). | Python, HMAC-SHA256, Ridge, Streamlit, pytest |
 | 🌾 [**CropGuard**](https://github.com/aakashimportant15-max/CropGuard) | *Ongoing.* Early-warning system for crop theft and wildlife intrusion: YOLOv8 detection, tracking, a rule-based context agent, a Flask dashboard and a Telegram alert bot. | Python, YOLOv8, Flask, SQLite |
 
-### 📊 Data Analytics & ML
+## 📊 Data Analytics & ML
 
 | Project | Highlights | Stack |
 |---|---|---|
@@ -40,7 +42,7 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 | Role | Organization | When |
 |---|---|---|
@@ -49,13 +51,13 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 | Campus Ambassador | E-Cell, IIT Bombay | Jun 2026 – Present |
 | Campus Ambassador | eDC, IIT Delhi (Top Campus Ambassador) | Dec 2025 – Feb 2026 |
 
-## 🏅 Awards & Publication
+# 🏅 Awards & Publication
 
 - 🥈 **2nd Rank (Winner), CodeVerse India 2026**, as Team Leader
 - 🥇 **Best Paper Presentation (top 6)**, 13th International Conference on Responsible Management in the Age of AI, IILM University (Mar 2026). Paper: *Balancing Efficiency and Human Values in Organizational Automation*, accepted for publication (2026)
 - 🎖️ Certificate of Achievement for outstanding performance in data analysis, StudifySuccess (Aug 2026)
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 
 - **B.Tech CSE (2023–2027)**, Vivekananda Institute of Professional Studies, GGSIPU. SGPA 9.5/10
 - Introduction to Machine Learning, NPTEL IIT Madras (2026) · AI & ML Summer Training, IICT (2026) · Data Analytics Job Simulation, Deloitte/Forage (2025) · Advanced Excel Skills for Business, Coursera (2025)
