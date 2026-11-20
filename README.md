@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Aakash+%F0%9F%91%8B;Backend+%7C+GenAI+%7C+Data+Analytics;CodeVerse+India+2026+Winner;Open+to+Internships" alt="Typing SVG" />
-</div>
+# Hi, I'm Aakash 👋
+ 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E9EF7&center=false&vCenter=true&width=700&height=40&lines=Backend+%7C+GenAI+%7C+Data+Analytics;CodeVerse+India+2026+Winner;Open+to+Internships" alt="Typing SVG" />
 
 I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI, Next.js and Power BI. CS undergrad (B.Tech 2027), hackathon winner, open to **Software / Backend, AI-GenAI and Data Analytics internships**.
 
