@@ -9,6 +9,8 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 - 🌱 Learning: agentic LLM workflows, backend security, system design
 - 📫 Reach me: [aakashimportant03@gmail.com](mailto:aakashimportant03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aakashcse2027/) · [Portfolio](https://aakash-ak.vercel.app)
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -17,6 +19,8 @@ I build **backend systems, GenAI apps and data dashboards** with Python, FastAPI
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
